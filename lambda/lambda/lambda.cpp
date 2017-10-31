@@ -6,7 +6,7 @@
 
 int main()
 {
-	sprintf_s()
+	
     return 0;
 }
 
